@@ -9,7 +9,7 @@
  *
  * @author sahibnoorsingh
  */
-public class College_Project {
+public class Papa_software {
 
     /**
      * @param args the command line arguments
